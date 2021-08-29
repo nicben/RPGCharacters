@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPGCharacters", "RPGCharacters\RPGCharacters.csproj", "{FACEC26B-6F03-40E4-AB98-40EC80079762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{4504613A-18AB-4344-95FC-35FD114E2F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACEC26B-6F03-40E4-AB98-40EC80079762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACEC26B-6F03-40E4-AB98-40EC80079762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACEC26B-6F03-40E4-AB98-40EC80079762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACEC26B-6F03-40E4-AB98-40EC80079762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4504613A-18AB-4344-95FC-35FD114E2F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4504613A-18AB-4344-95FC-35FD114E2F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4504613A-18AB-4344-95FC-35FD114E2F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4504613A-18AB-4344-95FC-35FD114E2F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D415EB9-CEE2-4A8F-A57F-EBBC02652D83}
+	EndGlobalSection
+EndGlobal
